@@ -1,0 +1,5 @@
+month,source_rows,loaded_rows,quarantined_rows,reconciled_rows
+2009-01,1,0,1,1
+2026-08,2,1,1,2
+2026-09,3876022,2024771,1851251,3876022
+2026-10,19,17,2,19
