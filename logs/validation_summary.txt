@@ -1,0 +1,8 @@
+YELLOW TAXI DATA VALIDATION REPORT
+========================================
+Generated: 2026-11-23 18:54:25.378702
+
+Total records: 3876044
+Accepted records: 2024789
+Quarantined records: 1851255
+Reconciliation difference: 0
